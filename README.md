@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ### Me 👋
-<a href="https://www.instagram.com/hard_hj/"></a><img src="https://img.shields.io/badge/hard_hj-E4405F?style=flat-square&logo=instagram&logoColor=black"/>
-<a href="https://velog.io/@heohyeonjin"></a><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=black"/>
+<a href="https://www.instagram.com/hard_hj/"><img src="https://img.shields.io/badge/hard_hj-E4405F?style=flat-square&logo=instagram&logoColor=black"/>
+<a href="https://velog.io/@heohyeonjin"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=black"/>
 
 
 ### Studying 🤔 
 
-</a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=black"/>
-</a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black"/>
 
 <br>
 <br>
