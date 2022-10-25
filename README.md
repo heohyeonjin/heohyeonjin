@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 ### More 🌱
-<a href="https://www.instagram.com/hard_hj/"><img src="https://img.shields.io/badge/hard_hj-E4405F?style=flat-square&logo=instagram&logoColor=black"/>
 <a href="https://velog.io/@heohyeonjin"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=black"/>
+<a href="https://www.instagram.com/hard_hj/"><img src="https://img.shields.io/badge/hard_hj-E4405F?style=flat-square&logo=instagram&logoColor=black"/>
+
 
 
 
